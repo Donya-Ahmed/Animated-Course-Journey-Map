@@ -11,7 +11,6 @@ import {
 import { Typography } from "./ui/typography";
 import { Button } from "./ui/button";
 import { NativeSelect } from "@/components/ui/native-select";
-import { ChevronDown } from "lucide-react";
 import LessonInfo from "./LessonInfo";
 
 export default function CourceCard() {

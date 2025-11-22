@@ -166,8 +166,7 @@ export default function CourseJourney() {
                   d = `M ${p1.x} ${p1.y} L ${p1.x} ${midY} L ${p2.x} ${midY} L ${p2.x} ${p2.y}`;
                 }
 
-                const strokeColor =
-                  index <= activeIndex ? "#FF7F24" : "#cccccc";
+               
 
                 return (
                   // <path
